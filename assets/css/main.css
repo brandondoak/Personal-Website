@@ -3014,6 +3014,10 @@
 			top: 0;
 			width: 28em;
 		}
+		
+		#three .content {
+			width: 95.15em;
+		}
 
 		.spotlight.left .content {
 			border-right-width: 0.35em;
@@ -3504,6 +3508,10 @@
 			.spotlight.left .content, .spotlight.right .content {
 				padding: 4.5em 2.5em;
 				width: 25em;
+			}
+
+			#three .content {
+				width: 72.8em;
 			}
 
 		/* Wrapper */

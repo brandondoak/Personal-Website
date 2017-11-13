@@ -1,0 +1,18 @@
+.video-container {
+    position: relative;
+    padding-bottom: 33.25%;
+    padding-top: 10px; 
+    overflow: hidden;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
